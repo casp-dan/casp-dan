@@ -9,7 +9,7 @@ I thrive in environments that require quick thinking and creative problem-solvin
 <!-- This is the list of my skills and tools I am studying -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=ableton,arduino,css,flask,git,github,gradle,html,java,javascript,latex,linux,mysql,nodejs,ocaml,py,regex,scikitlearn,ubuntu,vim,vscode
+[![My Skills](https://skillicons.dev/icons?i=ableton,arduino,bash,bitbucket,css,electron,flask,git,github,gradle,html,java,javascript,latex,linux,mysql,nodejs,ocaml,powershell,py,react,regex,scikitlearn,supabase,ubuntu,vercel,vim,vite,vscode
 )](https://skillicons.dev)
 
 ## Other Skills:
@@ -19,10 +19,6 @@ I thrive in environments that require quick thinking and creative problem-solvin
     Autodesk Fusion 360
     SolidWorks
 
-
-
-### Studying
-[![Learning](https://skillicons.dev/icons?i=react,cpp,typescript)](https://skillicons.dev)
 
 ### Connect with me!
 <div>
